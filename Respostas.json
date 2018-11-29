@@ -1,0 +1,79 @@
+{
+  "resposta": [
+    {
+      "resposta1": "Feminino",
+      "resposta2": "26 a 40 anos",
+      "resposta3": "Estudante",
+      "resposta4": "Ensino Técnico",
+      "resposta5": "Usuario intermediario",
+      "resposta6": "Sim",
+      "resposta7": "Sim",
+      "id": 1
+    },
+    {
+      "resposta1": "Prefiro não responder",
+      "resposta2": "Prefiro não responder",
+      "resposta3": "Outra",
+      "resposta4": "Doutorado",
+      "resposta5": "Usuario avancado\r ",
+      "resposta6": "Sim",
+      "resposta7": "Sim",
+      "id": 2
+    },
+    {
+      "activeStep": 0,
+      "resposta1": "Prefiro não responder",
+      "resposta2": "Prefiro não responder",
+      "resposta3": "Outra",
+      "resposta4": "Doutorado",
+      "resposta5": "Usuario avancado\r ",
+      "resposta6": "Não",
+      "resposta7": "Não",
+      "id": 3
+    },
+    {
+      "activeStep": 2,
+      "resposta1": "Feminino",
+      "resposta2": "40 a 65 anos",
+      "resposta3": "Professor",
+      "resposta4": "Ensino Técnico",
+      "resposta5": "Usuario iniciante",
+      "resposta6": "Não",
+      "resposta7": "Sim",
+      "id": 4
+    },
+    {
+      "activeStep": 2,
+      "resposta1": "Feminino",
+      "resposta2": "40 a 65 anos",
+      "resposta3": "Professor",
+      "resposta4": "Doutorado",
+      "resposta5": "Usuario avancado\r ",
+      "resposta6": "Sim",
+      "resposta7": "Sim",
+      "id": 5
+    },
+    {
+      "activeStep": 2,
+      "resposta1": "Masculino",
+      "resposta2": "40 a 65 anos",
+      "resposta3": "Estudante",
+      "resposta4": "Ensino Superior",
+      "resposta5": "Usuario intermediario",
+      "resposta6": "Não",
+      "resposta7": "Não",
+      "id": 6
+    },
+    {
+      "activeStep": 2,
+      "resposta1": "Masculino",
+      "resposta2": "18 a 25 anos",
+      "resposta3": "Estudante",
+      "resposta4": "Ensino Superior",
+      "resposta5": "Usuario avancado\r ",
+      "resposta6": "Sim",
+      "resposta7": "Sim",
+      "id": 7
+    }
+  ]
+}
